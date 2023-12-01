@@ -52,8 +52,8 @@ const Footer = () => {
             <div className='py-[57px]'>
             <ul>
            <Flex>
-           <List href="#" text="@20201 Innovate.All rights reserved." className="text-servicepColor font-nunito text-[18px] font-regular leading-[32.4px] capitalize pe-[495px]" />   
-            <List href="#" text="Privacy policy" className="text-servicepColor font-nunito text-[18px] font-regular leading-[32.4px] capitalize pe-[60px]" />   
+           <List href="#" text="@20201 Innovate.All rights reserved." className="text-servicepColor font-nunito text-[18px] font-regular leading-[32.4px] capitalize pr-[495px]" />   
+            <List href="#" text="Privacy policy" className="text-servicepColor font-nunito text-[18px] font-regular leading-[32.4px] capitalize pr-[60px]" />   
             <List href="#" text="Terms & condition" className="text-servicepColor font-nunito text-[18px] font-regular leading-[32.4px] capitalize" />   
            </Flex>
             </ul>
